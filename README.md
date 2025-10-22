@@ -5,9 +5,7 @@ Mae Mai Muay Thai (Mother Techniques of Thai Boxing)
 
 This dataset contains 900 video clips for action recognition in Muay Thai. The videos are divided into 15 distinct technique classes, with 60 clips per class. Each class is labeled  
 "01 Salab Fan Pla"
-
 "02 Paksa Waek Rang"
-
 "03 Chawa Sat Hork"
 "04 Inao Taeng Grit"
 "05 Yor Khao Phra Sumen"
