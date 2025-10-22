@@ -3,7 +3,7 @@ Mae Mai Muay Thai (Mother Techniques of Thai Boxing)
 
 **Data Description**
 
-This dataset contains 720 video clips for action recognition in Muay Thai. The videos are divided into 15 distinct technique classes, with 60 clips per class. Each class is labeled  
+This dataset contains 900 video clips for action recognition in Muay Thai. The videos are divided into 15 distinct technique classes, with 60 clips per class. Each class is labeled  
 "01 Salab Fan Pla"
 "02 Paksa Waek Rang"
 "03 Chawa Sat Hork"
@@ -21,12 +21,12 @@ This dataset contains 720 video clips for action recognition in Muay Thai. The v
 "15 Hak Kor Erawan"
 for training and testing models to automatically detect these fundamental techniques in video.
 
-Total Videos: 720 clips
+Total Videos: 900 clips
 Categories: 15 distinct Muay Thai techniques
 Videos per Class: 60
 Purpose: To train and test algorithms for automatic detection of Muay Thai techniques in video footage.
 
-The 720 clips in the dataset are MP4 video files of an average length of 5 seconds. For all the clips, the resolution is 1920 x 1080 pixels and the frame rate 30 fps. The clips were recorded with one camera placed in front of the boxer. The cameras are:Canon EOS RP camera is utilized to capture the dataset.
+The 900 clips in the dataset are MP4 video files of an average length of 5 seconds. For all the clips, the resolution is 1920 x 1080 pixels and the frame rate is 25 to 30 fps. The clips were recorded with one camera placed in front of the boxer. The cameras are:Canon EOS RP camera is utilized to capture the dataset.
 
 **Dataset Release Agreement**
 
